@@ -1,4 +1,4 @@
-# Flatiron-Capstone
+# Predicting Non-Profit Financial Rating
 
 ## Repository Navigation
 
